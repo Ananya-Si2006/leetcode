@@ -6,6 +6,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -20,4 +21,16 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ananya-Si2006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
