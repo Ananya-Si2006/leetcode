@@ -25,6 +25,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,10 +38,12 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
