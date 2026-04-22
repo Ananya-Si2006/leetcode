@@ -43,6 +43,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0058-length-of-last-word](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
