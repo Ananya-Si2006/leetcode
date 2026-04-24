@@ -29,10 +29,12 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,12 +44,14 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0058-length-of-last-word](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +64,12 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
