@@ -7,6 +7,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -23,6 +24,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ananya-Si2006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
@@ -97,5 +99,6 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
