@@ -12,6 +12,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0073-set-matrix-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0137-single-number-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
@@ -124,4 +125,8 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0137-single-number-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 <!---LeetCode Topics End-->
