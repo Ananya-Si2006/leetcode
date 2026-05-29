@@ -30,6 +30,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0070-climbing-stairs](https://github.com/Ananya-Si2006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0788-rotated-digits](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
