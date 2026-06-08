@@ -39,6 +39,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0344-reverse-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0054-spiral-matrix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
