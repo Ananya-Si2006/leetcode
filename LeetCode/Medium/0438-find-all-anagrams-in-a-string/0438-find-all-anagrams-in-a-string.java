@@ -3,20 +3,20 @@ class Solution {
         List<Integer> ans=new ArrayList<>();
         if(p.length()>s.length())
         return ans;
-        int freqP[]=new int[26];
-        int freqS[]=new int[26];
+        int P[]=new int[26];
+        int S[]=new int[26];
         for(int i=0;i<p.length();i++)
         {
-            freqP[p.charAt(i)-'a']++;
-            freqS[s.charAt(i)-'a']++;
+            P[p.charAt(i)-'a']++;
+            S[s.charAt(i)-'a']++;
         }
-        if(Arrays.equals(freqP,freqS))
+        if(Arrays.equals(P,S))
         ans.add(0);
         for(int i=p.length();i<s.length();i++)
         {
-            freqS[s.charAt(i)-'a']++;
-            freqS[s.charAt(i-p.length())-'a']--;
-            if(Arrays.equals(freqS,freqP))
+            S[s.charAt(i)-'a']++;
+            S[s.charAt(i-p.length())-'a']--;
+            if(Arrays.equals(S,P))
             ans.add(i-p.length()+1);
         }
         return ans;
