@@ -118,6 +118,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -143,6 +144,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -183,6 +185,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
