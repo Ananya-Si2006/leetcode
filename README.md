@@ -56,6 +56,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0119-pascals-triangle-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Math
@@ -125,6 +126,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0344-reverse-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
@@ -151,6 +153,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0189-rotate-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
