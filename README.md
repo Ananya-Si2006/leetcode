@@ -133,6 +133,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0392-is-subsequence](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0283-move-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
