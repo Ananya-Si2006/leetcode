@@ -203,6 +203,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Union-Find
@@ -283,4 +284,5 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
