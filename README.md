@@ -173,6 +173,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0142-linked-list-cycle-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
@@ -209,6 +210,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0021-merge-two-sorted-lists](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Union-Find
@@ -275,6 +277,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -292,5 +295,6 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0141-linked-list-cycle](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
