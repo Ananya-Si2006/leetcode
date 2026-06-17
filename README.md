@@ -279,6 +279,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 ## Backtracking
@@ -299,4 +300,8 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0206-reverse-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
