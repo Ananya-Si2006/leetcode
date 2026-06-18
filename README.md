@@ -36,6 +36,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -285,6 +286,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0234-palindrome-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,4 +313,5 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
