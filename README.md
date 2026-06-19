@@ -284,6 +284,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,10 +320,15 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
