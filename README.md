@@ -77,6 +77,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0070-climbing-stairs](https://github.com/Ananya-Si2006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0326-power-of-three](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0788-rotated-digits](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -222,6 +223,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0050-powx-n](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 | [0394-decode-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Union-Find
