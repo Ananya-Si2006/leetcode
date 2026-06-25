@@ -327,6 +327,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0112-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,6 +374,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0112-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -395,6 +397,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0112-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
