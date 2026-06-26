@@ -8,8 +8,6 @@
  * }
  */
 public class Codec {
-
-    // Serialize
     public String serialize(TreeNode root) {
         StringBuilder sb = new StringBuilder();
         preorder(root, sb);
@@ -28,10 +26,10 @@ public class Codec {
         preorder(node.right, sb);
     }
 
-    // Pointer used during deserialization
+    
     private int index;
 
-    // Deserialize
+    
     public TreeNode deserialize(String data) {
 
         String[] values = data.split(",");
