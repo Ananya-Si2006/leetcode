@@ -153,6 +153,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0079-word-search](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
@@ -333,6 +334,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -349,6 +351,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -383,6 +386,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
@@ -395,6 +399,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +415,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
