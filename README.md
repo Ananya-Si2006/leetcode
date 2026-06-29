@@ -47,6 +47,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
