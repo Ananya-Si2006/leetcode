@@ -288,6 +288,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
