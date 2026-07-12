@@ -42,6 +42,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0643-maximum-average-subarray-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
@@ -136,6 +138,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0496-next-greater-element-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
