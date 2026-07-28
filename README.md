@@ -116,6 +116,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [1833-maximum-ice-cream-bars](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bucket Sort
@@ -186,6 +187,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -392,6 +394,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
