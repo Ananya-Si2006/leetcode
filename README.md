@@ -377,6 +377,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0142-linked-list-cycle-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
