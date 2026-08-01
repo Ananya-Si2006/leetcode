@@ -3,18 +3,16 @@ class Solution {
         int n=s.length();
         int left=0;
         int maxLen=0;
-        HashSet<Character> set=new HashSet<>();
+        HashMap<Character,Integer> map=new HashMap<>();
         for(int right=0;right<n;right++)
         {
-            while(set.contains(s.charAt(right)))
+            char ch=s.charAt(right);
+            if(map.containsKey(ch))
             {
-                set.remove(s.charAt(left));
-                left++;
+                left=Math.max(left,map.get(ch)+1);
             }
-            set.add(s.charAt(right));
+            map.put(ch,right);
             maxLen=Math.max(maxLen,right-left+1);
-            
-
         }
         return maxLen;
         
