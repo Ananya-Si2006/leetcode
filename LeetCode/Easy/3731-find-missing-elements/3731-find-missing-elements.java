@@ -6,7 +6,8 @@ class Solution {
         for(int i=nums[0];i<nums[nums.length-1];i++)
         {
             if(nums[0+k]==i+1)
-            {k++;
+            {
+                k++;
             continue;
             }
             else
