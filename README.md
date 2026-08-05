@@ -32,6 +32,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
@@ -205,6 +206,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
@@ -297,6 +299,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -308,6 +311,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
