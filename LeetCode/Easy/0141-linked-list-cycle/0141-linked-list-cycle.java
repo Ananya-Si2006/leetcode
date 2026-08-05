@@ -11,16 +11,16 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode i=head;
-        ListNode j=head;
-        while(j!=null && j.next!=null)
+        
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null)
         {
-            i=i.next;
-            j=j.next.next;
-            if(i==j)
+            slow=slow.next;
+            fast=fast.next.next;
+            if(slow==fast)
             return true;
         }
         return false;
-        
     }
 }
