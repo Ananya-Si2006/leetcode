@@ -35,6 +35,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0209-minimum-size-subarray-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0056-merge-intervals](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -147,6 +149,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0142-linked-list-cycle-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
@@ -266,6 +269,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
@@ -497,4 +501,8 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
