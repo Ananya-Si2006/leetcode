@@ -10,6 +10,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0011-container-with-most-water](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
@@ -231,6 +233,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0005-longest-palindromic-substring](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
