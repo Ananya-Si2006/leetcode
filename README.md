@@ -408,6 +408,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +472,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -485,6 +487,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0199-binary-tree-right-side-view](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -506,6 +509,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
