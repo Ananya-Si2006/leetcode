@@ -308,6 +308,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -413,6 +414,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Linked List
@@ -480,6 +482,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -523,6 +526,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -552,4 +556,8 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
