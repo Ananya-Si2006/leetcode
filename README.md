@@ -63,6 +63,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [2574-left-and-right-sum-differences](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -230,6 +232,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
