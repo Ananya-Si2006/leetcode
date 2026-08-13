@@ -416,6 +416,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0965-univalued-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Linked List
@@ -486,6 +487,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0572-subtree-of-another-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0965-univalued-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -532,6 +534,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0572-subtree-of-another-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0965-univalued-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
