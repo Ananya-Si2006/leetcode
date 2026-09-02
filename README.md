@@ -70,6 +70,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
