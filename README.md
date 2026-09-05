@@ -50,6 +50,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [1331-rank-transform-of-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
@@ -324,6 +325,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0079-word-search](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
