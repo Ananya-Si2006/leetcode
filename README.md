@@ -60,6 +60,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -284,6 +285,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
