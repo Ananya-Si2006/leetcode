@@ -53,6 +53,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1927-sum-game](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -178,6 +180,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0567-permutation-in-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
@@ -298,6 +301,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0383-ransom-note](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Recursion
