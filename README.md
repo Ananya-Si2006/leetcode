@@ -14,6 +14,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
@@ -353,6 +354,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
