@@ -12,6 +12,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0015-3sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
@@ -263,6 +264,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0018-4sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
