@@ -6,7 +6,7 @@ class Solution {
             if(nums[i]!=0)
             {
                 nums[j]=nums[i];
-                j++;
+                j+=1;
             }
         }
         while(j<nums.length)
