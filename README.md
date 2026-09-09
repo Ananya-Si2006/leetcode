@@ -25,6 +25,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0066-plus-one](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
@@ -380,6 +381,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
