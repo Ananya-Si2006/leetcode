@@ -42,6 +42,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0219-contains-duplicate-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0070-climbing-stairs](https://github.com/Ananya-Si2006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -142,6 +144,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0217-contains-duplicate](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
@@ -183,6 +186,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0219-contains-duplicate-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
@@ -374,6 +378,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
@@ -392,6 +397,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Trie
