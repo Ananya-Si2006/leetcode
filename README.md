@@ -22,6 +22,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0053-maximum-subarray](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
@@ -107,6 +108,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Ananya-Si2006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
