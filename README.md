@@ -480,6 +480,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0872-leaf-similar-trees](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0965-univalued-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -553,6 +554,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0872-leaf-similar-trees](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0965-univalued-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -602,6 +604,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0872-leaf-similar-trees](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0872-leaf-similar-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0965-univalued-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
