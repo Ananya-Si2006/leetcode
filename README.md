@@ -24,6 +24,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0056-merge-intervals](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
@@ -148,6 +149,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0018-4sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0164-maximum-gap](https://github.com/Ananya-Si2006/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
@@ -293,6 +295,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
@@ -659,4 +662,12 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
