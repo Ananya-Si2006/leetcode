@@ -673,6 +673,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
