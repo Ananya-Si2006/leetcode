@@ -24,6 +24,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0053-maximum-subarray](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
