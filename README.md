@@ -37,6 +37,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0128-longest-consecutive-sequence](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0119-pascals-triangle-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
