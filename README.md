@@ -57,6 +57,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
@@ -216,6 +217,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
@@ -391,6 +393,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
