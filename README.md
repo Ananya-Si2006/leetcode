@@ -70,6 +70,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0724-find-pivot-index](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -289,6 +290,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -400,6 +402,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0525-contiguous-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -421,6 +424,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
