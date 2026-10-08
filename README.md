@@ -124,6 +124,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
@@ -374,6 +375,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
@@ -531,6 +533,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
