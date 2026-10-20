@@ -484,6 +484,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
@@ -499,6 +500,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0145-binary-tree-postorder-traversal](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
@@ -563,6 +565,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
