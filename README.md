@@ -724,6 +724,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
