@@ -532,6 +532,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0100-same-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -615,6 +616,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -665,6 +667,7 @@ Collection of LeetCode questions solved - Created using [LeetHub-3.0](https://gi
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ananya-Si2006/leetcode/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
